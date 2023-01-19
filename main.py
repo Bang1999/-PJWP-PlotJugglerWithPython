@@ -21,7 +21,7 @@ def resource_path(relative_path): # 파일과 리소스의 경로 찾기
     base_path = getattr(sys, "_MEIPASS", os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base_path, relative_path) # 파일의 총 경로를 반환
 
-UI_form = resource_path('/Users/bdh/Desktop/PJWP/Again/re_MainWindow.ui') # ui 파일의 총 경로를 form에 할당
+UI_form = resource_path('MainWindow.ui') # ui 파일의 총 경로를 form에 할당
 UI_form_class = uic.loadUiType(UI_form)[0] # 해당 파일을 uic class형태로 변환
 
 class WindowClass(QMainWindow, UI_form_class): #QMainWindow와 ui를 변환한 class의 다중상속
