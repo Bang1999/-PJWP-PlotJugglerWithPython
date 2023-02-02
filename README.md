@@ -61,8 +61,9 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)를 참조하여, 기�
 - os : 
 - sys : 
 - pandas : 
-- pyqtgraph : 
 - PyQt5 : 
+- pyqtgraph : 
+
 
 
 
