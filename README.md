@@ -42,8 +42,8 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 
-## Documentation
-  모든 Documentation의 작업이 완료되면 그 때 알려드리겠습니다.
+## Document
+  모든 Document들의 작업이 완료되면 그 때 알려드리겠습니다.
 
 
 
