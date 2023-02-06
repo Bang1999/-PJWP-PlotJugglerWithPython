@@ -54,35 +54,24 @@
         <property name="lineWidth">
          <number>1</number>
         </property>
+        <property name="midLineWidth">
+         <number>-7</number>
+        </property>
         <property name="dragEnabled">
          <bool>true</bool>
         </property>
         <property name="dragDropMode">
-         <enum>QAbstractItemView::DragDrop</enum>
+         <enum>QAbstractItemView::DragOnly</enum>
         </property>
         <property name="defaultDropAction">
          <enum>Qt::MoveAction</enum>
         </property>
         <property name="columnCount">
-         <number>2</number>
+         <number>1</number>
         </property>
         <column>
          <property name="text">
           <string>Name</string>
-         </property>
-         <property name="font">
-          <font>
-           <weight>75</weight>
-           <bold>true</bold>
-          </font>
-         </property>
-         <property name="textAlignment">
-          <set>AlignCenter</set>
-         </property>
-        </column>
-        <column>
-         <property name="text">
-          <string>Value</string>
          </property>
          <property name="font">
           <font>
@@ -109,7 +98,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QSlider" name="Time_horizontalSlider">
+         <widget class="QSlider" name="Slider">
           <property name="orientation">
            <enum>Qt::Horizontal</enum>
           </property>
@@ -134,9 +123,9 @@
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="btn_Clear">
+         <widget class="QPushButton" name="btn_Syn">
           <property name="text">
-           <string>Clear Selection</string>
+           <string>Graph Synchronize</string>
           </property>
          </widget>
         </item>
@@ -175,7 +164,7 @@
     </property>
     <addaction name="actionLoad_File"/>
     <addaction name="actionCreate_Graph_Window"/>
-    <addaction name="actionClear_Selection"/>
+    <addaction name="actionSyn"/>
     <addaction name="actionStart_Time"/>
     <addaction name="actionStop_Time"/>
    </widget>
@@ -204,9 +193,9 @@
     <string>Create Graph Window</string>
    </property>
   </action>
-  <action name="actionClear_Selection">
+  <action name="actionSyn">
    <property name="text">
-    <string>Clear Selection</string>
+    <string>Graph Synchronize</string>
    </property>
   </action>
   <action name="actionStart_Time">
