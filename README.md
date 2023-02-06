@@ -1,12 +1,12 @@
 # [PJWP] PlotJugglerWithPython (Clone Coding)
-CP6 동계인턴십
+**CP6 동계인턴십**
 
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
-# Demo
+## Demo
 ![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/Document/Demo_Video.gif)
 
-# Environment
+## Environment
 - MacOS Ventura 13.1
 - Python 3.11.1
 - Qt Designer 6.4
@@ -14,12 +14,12 @@ CP6 동계인턴십
 
 
 
-# Project Goal
+## Project Goal
 PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)를 참조하여, CSV파일 분석 툴을 만들었다.
 
 
 
-# Features
+## Features
 - CSV File Load
 - Load한 데이터를 각 columns에 맞게 MainWindow에 나타낼 수 있습니다.
 - 다수의 Graph Window를 열 수 있습니다.
@@ -32,7 +32,7 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 
-# Major features not implemented (yet)
+## Major features not implemented (yet)
 - Drag and Drop
 - 대용량 CSV파일 사용
 - 한 번에 여러 파일을 불러온 후, 자유롭게 띄우고 싶은 Column을 선택 후, Graph Window를 띄울 수 있는 기능
@@ -42,24 +42,24 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 
-# Documentation
+## Documentation
   모든 Documentation의 작업이 완료되면 그 때 알려드리겠습니다.
 
 
 
 
-# Contributing & Support
+## Contributing & Support
   Contributing : Bang1999
   Support : CP6
 
 
 
-# Installation
+## Installation
   1~2일이내로 올려드리겠습니다.
 
 
 
-# Dependencies
+## Dependencies
 - os : 사용자의 운영체제에서 CSV파일을 불러올 때 사용됩니다.
 - sys : 파이썬 인터프리터를 제어할 수 있는 방법을 제공합니다.
 - numpy : 동기화한 선이 움직일 때 현재 데이터의 값을 구할 때 사용됩니다.
