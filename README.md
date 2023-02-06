@@ -1,4 +1,4 @@
-# [PJWP] PlotJugglerWithPython (Clone Coding)
+# [PJWP] PlotJugglerWithPython
 **CP6 동계인턴십**
 
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
@@ -15,7 +15,7 @@
 
 
 ## Project Goal
-PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)를 참조하여, CSV파일 분석 툴을 만들었다.
+PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)의 UI 및  참조하여, CSV파일 분석 툴을 만들었다.
 
 
 
