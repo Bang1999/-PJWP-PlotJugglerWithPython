@@ -2,7 +2,7 @@
 CP6 동계인턴십
 
 
-기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
+개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
 
 만든이 : 방동호
@@ -10,13 +10,13 @@ CP6 동계인턴십
 # Environment
 - MacOS Ventura 13.1
 - Python 3.11.1
-- Qt Designer
-- VisualStudio Code
+- Qt Designer 6.4
+- VisualStudio Code 1.74.3
 
 
 
 # Project Goal
-PlotJuggler(https://github.com/facontidavide/PlotJuggler)를 참조하여, 기능 모방하기
+PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)를 참조하여, CSV파일 분석 툴을 만들었다.
 
 
 
