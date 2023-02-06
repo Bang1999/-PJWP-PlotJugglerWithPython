@@ -4,7 +4,7 @@ CP6 동계인턴십
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
 # Demo
-
+![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/Document/Demo_Video.gif)
 
 # Environment
 - MacOS Ventura 13.1
