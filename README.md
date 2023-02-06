@@ -4,6 +4,7 @@ CP6 동계인턴십
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
 # Demo
+/Users/bdh/Desktop/PJWP_실행.mov
 
 
 # Environment
