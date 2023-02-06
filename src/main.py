@@ -103,7 +103,6 @@ class MainWindow(QMainWindow, UI_form_class): #QMainWindow와 ui를 변환한 cl
     # 그래프 그리기
     def Plot(self):
         self.plot_widget = pg.PlotWidget()
-        self.plot_widget.setBackground('w')
         self.plot_widget.setTitle("{} Graph".format(self.selected))
         self.plot_widget.showGrid(x=True, y=True)
         data = self.data[self.selected]
