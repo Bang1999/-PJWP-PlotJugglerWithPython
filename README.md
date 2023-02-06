@@ -1,11 +1,10 @@
 # [PJWP] PlotJugglerWithPython (Clone Coding)
 CP6 동계인턴십
 
-
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
+# Demo
 
-만든이 : 방동호
 
 # Environment
 - MacOS Ventura 13.1
