@@ -4,7 +4,7 @@
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
 ## Demo Video
-![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/Document/Demo_Video.gif)
+![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
 
 ## Environment
 - MacOS Ventura 13.1
