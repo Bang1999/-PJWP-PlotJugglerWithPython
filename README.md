@@ -56,12 +56,12 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 ## Document
 저의 docs폴더로 들어가시면
-- 요구사항 정의서
-- 기능 정의서
-- 프로젝트 SRS
-- 화면 설계서
-- 아키텍처 설계서
-- 테스트 케이스
+- [요구사항 정의서](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/01.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EC%A0%95%EC%9D%98%EC%84%9C)
+- [기능 정의서](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/02.%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EC%9D%98%EC%84%9C)
+- [프로젝트 SRS](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/03.%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20SRS)
+- [화면 설계서](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/04.%20%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84%EC%84%9C)
+- [아키텍처 설계서](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/05.%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%84%A4%EA%B3%84%EC%84%9C)
+- [테스트 케이스](https://github.com/Bang1999/PlotJugglerWithPython/tree/main/docs/06.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4)
 로 이루어진 document들을 보시면, 이 프로그램이 왜 만들었는지와, 이 프로젝트가 무엇인지와, 어떻게 사용하는지를 알 수 있습니다.
 
 
@@ -70,9 +70,6 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 ## Contributing & Support
  - Contributing : **Bang1999**
  - Support : **CP6**
- ---|---
- Contributing | Bang1999
- Support | CP6
 
 
 
