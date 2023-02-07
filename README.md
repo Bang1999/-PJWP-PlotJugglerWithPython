@@ -7,15 +7,15 @@
 ![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
 
 ## Contents
-[01. Demo Video](#Demo-Video)
-[02. Environment](#Environment)
-[03. Project Goal](#Project-Goal)
-[04. Features](#Features)
-[05. Major features not implemented (Not Yet)](#Major-features-not-implemented-(Not-Yet))
-[06. Document](#Document)
-[07. Contributing & Support](#Contributing-&-Support)
-[08. Installation](#Installation)
-[09. Dependencies](#Dependencies)
+- [01. Demo Video](#Demo-Video)
+- [02. Environment](#Environment)
+- [03. Project Goal](#Project-Goal)
+- [04. Features](#Features)
+- [05. Major features not implemented (Not Yet)](#Major-features-not-implemented-(Not-Yet))
+- [06. Document](#Document)
+- [07. Contributing & Support](#Contributing-&-Support)
+- [08. Installation](#Installation)
+- [09. Dependencies](#Dependencies)
 
 
 ## Environment
