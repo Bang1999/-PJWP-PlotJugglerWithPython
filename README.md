@@ -6,6 +6,18 @@
 ## Demo Video
 ![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
 
+## Contents
+[01. Demo Video](#Demo-Video)
+[02. Environment](#Environment)
+[03. Project Goal](#Project-Goal)
+[04. Features](#Features)
+[05. Major features not implemented (Not Yet)](#Major-features-not-implemented-(Not-Yet))
+[06. Document](#Document)
+[07. Contributing & Support](#Contributing-&-Support)
+[08. Installation](#Installation)
+[09. Dependencies](#Dependencies)
+
+
 ## Environment
 - MacOS Ventura 13.1
 - Python 3.11.1
@@ -32,9 +44,9 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 
-## Major features not implemented (yet)
-- Drag and Drop
-- 대용량 CSV파일 사용
+## Major features not implemented (Not Yet)
+- Drag and Drop 기능
+- 대용량 CSV파일 수용
 - 한 번에 여러 파일을 불러온 후, 자유롭게 띄우고 싶은 Column을 선택 후, Graph Window를 띄울 수 있는 기능
 - 하나의 Graph Window에 여러개의 그래프를 그리는 기능
 - 현재는 여러 그래프들을 동기화 하여 값을 분석 할 때, 마지막의 Graph Window만 MainWindow에 값이 나타나지만, 마지막의 그래프말고, 다른 그래프들의 값들도 나타내게끔 해주는 기능
