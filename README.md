@@ -1,7 +1,7 @@
 # [PJWP] PlotJugglerWithPython
 **CP6 동계인턴십**
 
-개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
+개발 기간 : 22.12.26 ~ 23.02.07
 
 ## Demo Video
 ![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
