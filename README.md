@@ -1,7 +1,7 @@
 # [PJWP] PlotJugglerWithPython
 **CP6 동계인턴십**
 
-개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
+개발 기간 : 22.12.26 ~ 23.02.07
 
 ## Demo Video
 ![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
@@ -43,14 +43,21 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 ## Document
-  모든 Document들의 작업이 완료되면 그 때 알려드리겠습니다.
+저의 docs폴더로 들어가시면
+- 요구사항 정의서
+- 기능 정의서
+- 프로젝트 SRS
+- 화면 설계서
+- 아키텍처 설계서
+- 테스트 케이스
+로 이루어진 document들을 보시면, 이 프로그램이 왜 만들었는지와, 이 프로젝트가 무엇인지와, 어떻게 사용하는지를 알 수 있습니다.
 
 
 
 
 ## Contributing & Support
-  Contributing : Bang1999
-  Support : CP6
+  Contributing : **Bang1999**
+  Support : **CP6**
 
 
 
