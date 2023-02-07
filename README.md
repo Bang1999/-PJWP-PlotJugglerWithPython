@@ -70,6 +70,7 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 ## Contributing & Support
  - Contributing : **Bang1999**
  - Support : **CP6**
+ ---|---
  Contributing | Bang1999
  Support | CP6
 
