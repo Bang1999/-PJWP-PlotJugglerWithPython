@@ -67,7 +67,7 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 ## Contributing & Support
  - Contributing : **Bang1999**
- - Support : **CP6**
+ - Supported by [CP6](http://www.cp6.co.kr/)
 
 
 
@@ -90,3 +90,7 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
   - Plot : Graph Window에 그래프를 그릴 때 사용합니다.
   - InfiniteLine : 다수의 그래프를 동기화하여 분석하기 위한 선을 그릴 때 사용합니다.
   - QTimer : 위의 InfiniteLine을 움직일 때 사용합니다.
+
+
+## LICENSE
+[LICENSE](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/LICENSE)
