@@ -43,14 +43,14 @@ PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https
 
 
 ## Document
-저의 docs페이지에 들어가시면
+저의 docs폴더로 들어가시면
 - 요구사항 정의서
 - 기능 정의서
 - 프로젝트 SRS
 - 화면 설계서
 - 아키텍처 설계서
 - 테스트 케이스
-로 이루어진 서류들을 보시면, 이 프로그램이 왜 만들었는지와, 이 프로젝트가 무엇인지와, 어떻게 사용하는지를 알 수 있습니다.
+로 이루어진 document들을 보시면, 이 프로그램이 왜 만들었는지와, 이 프로젝트가 무엇인지와, 어떻게 사용하는지를 알 수 있습니다.
 
 
 
