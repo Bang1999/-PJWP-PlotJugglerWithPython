@@ -4,7 +4,7 @@
 개발 기간 : 22.12.26 ~ 23.02.07 (현재 ~ing)
 
 ## Demo Video
-![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/Document/Demo_Video.gif)
+![](https://github.com/Bang1999/PlotJugglerWithPython/blob/main/docs/Demo_Video.gif)
 
 ## Environment
 - MacOS Ventura 13.1
@@ -15,7 +15,7 @@
 
 
 ## Project Goal
-PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)의 UI 및  참조하여, CSV파일 분석 툴을 만들었다.
+PlotJuggler(https://github.com/facontidavide/PlotJuggler)와 pyplotjuggler(https://github.com/AtsushiSakai/pyplotjuggler)에서 영감을 받아 UI 및 기능을 참조하여, CSV파일 분석 툴을 만들었습니다.
 
 
 
