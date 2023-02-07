@@ -16,7 +16,7 @@
 - [07. Contributing & Support](#Contributing-&-Support)
 - [08. Installation](#Installation)
 - [09. Dependencies](#Dependencies)
-
+- [10. LICENSE](#LICENSE)
 
 ## Environment
 - MacOS Ventura 13.1
